@@ -8,7 +8,7 @@ import edu.arizona.sista.reach.grounding._
 /**
   * Lookup grounding information for each string in a list of strings.
   * Author: Tom Hicks. 12/13/2015. Modified by David Sidi (30 Dec 2015).
-  * Last Modified: Split into class and object for py4j. Added resolution from file. (D. Sidi)
+  * Last Modified: Split into class and object for py4j. Added resolution from file. (dsidi)
   */
 class GroundStrings {
 
